@@ -1,0 +1,24 @@
+title: Multiverse by HTML5 UP
+author: João Neto
+email: joao@neto.pt
+description: >-
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+
+social:
+  twitter: joaomlneto
+  facebook: joaomlneto
+  instagram: joaomlneto
+  github: joaomlneto
+  linkedin:
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+collections:
+  images:
+    output: true
