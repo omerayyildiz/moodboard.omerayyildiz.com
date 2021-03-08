@@ -1,17 +1,13 @@
-title: Multiverse by HTML5 UP
-author: João Neto
-email: joao@neto.pt
+title: Spotify Moodboard by Ömer Ayyıldız
+author: Ömer Ayyıldız
+email: oayyildiz416@gmail.com
 description: >-
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Spotify is my inspiration. This website is my painting bag. Enjoy it :)
 
 social:
-  twitter: joaomlneto
-  facebook: joaomlneto
-  instagram: joaomlneto
-  github: joaomlneto
-  linkedin:
+  twitter: omerayyildiz101
+  github: omerayyildiz
+  behance: omerayyildiz
 
 # Build settings
 markdown: kramdown
