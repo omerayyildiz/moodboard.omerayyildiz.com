@@ -6,7 +6,7 @@
   </a>
 </p>
 
-> Spotify is my inspiration. This website is my painting bag. Enjoy it :)
+> Spotify is my inspiration and this website is my passion show.
 
 ![DEMO SITE](readme.png)
 
